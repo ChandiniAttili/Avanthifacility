@@ -31,7 +31,7 @@ function App() {
               <strong>Phone:</strong> <a href="tel:+919848000562" className="text-blue-600 hover:underline">+91 9848000562</a>
             </p>
             <p className="mb-4">
-              <strong>Email:</strong> <a href="mailto:attilichandini302@gmail.com" className="text-blue-600 hover:underline">attilichandini302@gmail.com</a>
+              <strong>Email:</strong> <a href="mailto:avanthigroup@gmail.com" className="text-blue-600 hover:underline">attilichandini302@gmail.com</a>
             </p>
           </div>
         </div>
