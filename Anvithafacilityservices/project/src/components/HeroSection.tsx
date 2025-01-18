@@ -1,4 +1,4 @@
-import React from "react"; // Ensure React is imported if using JSX
+ // Ensure React is imported if using JSX
 
 export default function HeroSection() {
   return (

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import ServicesSection from './components/ServicesSection';
@@ -31,7 +31,7 @@ function App() {
               <strong>Phone:</strong> <a href="tel:+919848000562" className="text-blue-600 hover:underline">+91 9848000562</a>
             </p>
             <p className="mb-4">
-              <strong>Email:</strong> <a href="mailto:avanthigroup@gmail.com" className="text-blue-600 hover:underline">avanthigroup1@gmail.com</a>
+              <strong>Email:</strong> <a href="mailto:avanthigroup1@gmail.com" className="text-blue-600 hover:underline">avanthigroup1@gmail.com</a>
             </p>
           </div>
         </div>
