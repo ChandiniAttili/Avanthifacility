@@ -8,6 +8,11 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50">
       <Header />
+      <main>
+        <h1 className="text-4xl md:text-5xl font-black text-blue-600 text-center pt-24 pb-8">
+        Avanthi Group - Trusted Security & Facility Management in Hyderabad
+        </h1>
+        </main>
       <HeroSection />
       <ServicesSection />
 
