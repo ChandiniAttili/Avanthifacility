@@ -38,6 +38,7 @@ function App() {
         </div>
       </main>
 
+
       <HeroSection />
       <ServicesSection />
 
@@ -61,6 +62,12 @@ function App() {
               <strong>Phone:</strong>{" "}
               <a href="tel:+919848000562" className="text-blue-600 hover:underline">
                 +91 9848000562
+              </a>
+            </p>
+            <p className="mb-4">
+              <strong>Land Number:</strong>{" "}
+              <a href="tel:040 4521 4064" className="text-blue-600 hover:underline">
+               040 4521 4064
               </a>
             </p>
             <p className="mb-4">
